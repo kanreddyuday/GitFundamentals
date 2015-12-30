@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+Adding some content
 Adding yet more code
 =======
 fix1
-
+Added fix1
 addition 1
 >>>>>>> a6f365a... Added fix1
