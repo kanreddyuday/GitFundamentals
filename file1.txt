@@ -1,5 +1,4 @@
 <<<<<<< HEAD
-Adding some content
 Adding yet more code
 =======
 fix1
